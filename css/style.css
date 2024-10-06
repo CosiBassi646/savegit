@@ -1,0 +1,150 @@
+
+
+.imgnav{
+height: 100px;
+width: 10%;
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+
+.titolo{
+
+   font-family: 'Permanent Marker', cursive;
+    color: rgba(63, 17, 17, 0.767);
+}
+
+.paragrafi{
+    font-family: 'Inter', sans-serif;
+}
+
+
+.sponsor{
+  background-color: rgba(100, 91, 91, 0.911);
+}
+
+.tmp{
+  background-image: url('../images/sponsor.jpg'); background-size: cover; background-position: center; height: 600px; width: 100%;
+}
+
+
+
+.colorenav{
+  background-color: rgba(6, 117, 71, 0.74);
+}
+
+.partner{
+  font-family: 'Stalinist One', cursive;
+
+}
+
+.tape{
+  background-image: url('../images/background.jpg'); background-size: cover; background-position: center; height: 23%; width: 100%;
+}
+
+.cartabg{
+  background-image: url('../images/bgcarta.jpg'); background-size: cover; background-position: center; height: 80%; width: 100%;
+}
+
+.scotch{
+  background-image: url('../images/scotch.png'); background-size: cover; background-position: center; height: 80%; width: 100%;
+}
+
+.minimalbg{
+  background-image: url('../images/minimalbg.png'); background-size: cover; background-position: center; height: 70%; width: 100%;
+}
+
+.terranera{
+  background-image: url('../images/terranera.webp'); background-size: cover; background-position: center; height: 80%; width: 100%;
+}
+
+.slideshow{
+  height: 700px;
+}
+
+.stripebg{
+  background-image: url('../images/stripebg.jpg'); background-size: cover; background-position: center; height: 100%; width: 100%;
+}
+
+.etichetta{
+  background-image: url('../images/etichetta.png'); background-size: cover; background-position: center; width: 100%;
+}
+
+.zone:hover{
+  color: rgb(36, 175, 129);
+}
+
+.zone{
+  color: whitesmoke;
+}
+
+.imgcard{
+
+  height: 250px;
+  width: 100%;
+}
+
+.regioni{
+
+  background-image: url('../images/regioni.jpg'); background-size: cover; background-position: center; width: 100%;
+}
+
+.topregioni{
+
+  background-image: url('../images/topregioni.png'); background-size: cover; background-position: center;height: auto; width: 100%;
+}
+
+.topsud{
+
+  background-image: url('../images/sudtop.png'); background-size: cover; background-position: center;height: auto; width: 100%;
+}
+
+.topcentro{
+
+  background-image: url('../images/centro.png'); background-size: cover; background-position: center;height: auto; width: 100%;
+}
+
+.centro{
+  background-image: url('../images/centrobg.jpg'); background-size: cover; background-position: center;height: auto; width: 100%;
+}
+
+.sud{
+  background-image: url('../images/sudbg.jpg'); background-size: cover; background-position: center;height: auto; width: 100%;
+
+}
+
+.supporto{
+  background-image: url('../images/socialbg.png'); background-size: cover; background-position: center;height: auto; width: 100%;
+
+}
+
+.terrarotta{
+  background-image: url('../images/terraspaccata.jpg'); background-size: cover; background-position: center;height: auto; width: 100%;
+}
+
+.intro{
+  height:
+  220px;
+}
+
+.media{
+  background-image: url('../images/media.png'); background-size: cover; background-position: center;height: auto; width: 100%;
+
+}
+
+.creep{
+  font-family: 'Creepster', cursive;
+font-family: 'Stalinist One', cursive;
+}
+
+.wspec{
+  width: 40%;
+}
+
